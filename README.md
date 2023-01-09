@@ -1,4 +1,4 @@
-# Ссылки на кодпен ниже. Так, полагаю, будет удобнее
+# Ссылки на кодпен ниже. Так, возможно, будет удобнее
 
 1: https://codepen.io/sticktoyourguns/pen/zYamYzV
 2: https://codepen.io/sticktoyourguns/pen/xxzyEwE
